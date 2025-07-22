@@ -13,3 +13,4 @@
 > If you can't fix the bug, just add more commits. (Just kidding. Or am I?)
 
 ## Commit 5: Emoji Test 😎🚀
+## Done
